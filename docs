@@ -1,0 +1,19 @@
+NPM: https://www.npmjs.com/
+
+YARN: https://yarnpkg.com/
+
+Google Firebase: https://firebase.google.com/?gad=1&gclid=CjwKCAjws7WkBhBFEiwAIi1681FliJOeURM06e4j9CAI-FtUSXRFe9F4CdCaFjVJ9ldTBYvISUHpJhoCkI0QAvD_BwE&gclsrc=aw.ds
+-Free Plan
+    - 50,000 Reads/Day
+    - 20,000 Writes/Day
+    - 20,000 Deletes/Day
+    - 1 GiB Storage
+
+Prettier: https://prettier.io/
+- Command: npx prettier --write
+
+Linear Gradient: https://github.com/react-native-linear-gradient/react-native-linear-gradient#installation
+Example: https://blog.logrocket.com/complex-gradients-react-native-linear-gradient/
+
+Gifted Charts: https://gifted-charts.web.app/
+https://www.npmjs.com/package/react-native-gifted-charts
